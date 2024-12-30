@@ -1,0 +1,18 @@
+{
+  "name": "apicypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress1": "cypress run --headed --browser chrome",
+    "cypress2": "cypress run --headless --browser chrome"    
+  },
+  
+"keywords": [],
+  "author": "Tanny666",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
